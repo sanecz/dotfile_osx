@@ -16,7 +16,8 @@ sketchybar --add item           apple.logo left                             \
                                 icon.font="$FONT:Black:15.0"                \
                                 icon.color=$BLUE                            \
                                 icon.padding_left=6                         \
-                                icon.y_offset=0                             \
+                                icon.y_offset=0
+\
                                 padding_right=15                            \
                                 padding_left=4                              \
                                 label.drawing=off                           \

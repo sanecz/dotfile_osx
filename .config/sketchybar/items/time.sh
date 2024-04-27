@@ -2,7 +2,7 @@
 
 time=(
   script="$PLUGIN_DIR/time.sh"
-  icon=􀐫
+  icon=
   icon.color=$ACCENT_COLOR
   icon.font="$FONT:Bold:12.0"
   icon.padding_left=8
@@ -17,12 +17,12 @@ time=(
 )
 
 time_dot=(
-  icon=􀀁
+  icon=·
   icon.color=$TRANSPARENT_ACCENT
-  icon.font="$FONT:Black:6.0"
+  icon.font="$FONT:Black:36.0"
   icon.padding_right=10
   icon.padding_left=10
-  icon.y_offset=0
+  icon.y_offset=-3
 )
 
 time_bracket=(

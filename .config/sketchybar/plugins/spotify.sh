@@ -3,7 +3,6 @@
 
 set -x
 
-
 update ()
 {
   TRACK=$(osascript -e 'tell application "Spotify" to name of current track')
@@ -15,4 +14,6 @@ case "$SENDER" in
   *) update
   ;;
 esac
+
+update
 

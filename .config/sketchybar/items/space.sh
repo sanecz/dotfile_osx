@@ -32,18 +32,18 @@ done
 
 
 space_dot=(
-  icon=􀀁
+  icon="·"
   icon.color=$TRANSPARENT_ACCENT
-  icon.font="$FONT:Black:6.0"
+  icon.font="$FONT:Black:36.0"
   icon.padding_left=10
   icon.padding_right=10
-  icon.y_offset=0
+  icon.y_offset=-3
 )
 
 
 separator=(
-  icon=􀆊
-  icon.font="$FONT:Bold:10.0"
+  icon=">"
+  icon.font="$FONT:Bold:16.0"
   label.drawing=off
   icon.padding_left=10    
   icon.padding_right=10

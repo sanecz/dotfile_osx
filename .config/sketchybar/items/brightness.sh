@@ -9,7 +9,7 @@ brightness_slider=(
   slider.background.height=5
   slider.background.corner_radius=3
   slider.background.color=$TRANSPARENT_ACCENT
-  slider.knob=􀀁
+  slider.knob=""
   slider.knob.drawing=off
 )
 

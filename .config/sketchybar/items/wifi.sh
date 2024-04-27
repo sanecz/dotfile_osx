@@ -1,11 +1,11 @@
 #!/bin/sh
 
 wifi_dot=(
-  icon=􀀁
+  icon="·"
   icon.color=$TRANSPARENT_ACCENT
-  icon.font="$FONT:Black:6.0"
+  icon.font="$FONT:Black:36.0"
   icon.padding_left=10
-  icon.y_offset=0
+  icon.y_offset=-3
 )
 
 wifi_alias=(

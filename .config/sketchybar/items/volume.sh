@@ -9,7 +9,7 @@ volume_slider=(
   slider.background.height=5
   slider.background.corner_radius=3
   slider.background.color=$TRANSPARENT_ACCENT
-  slider.knob=􀀁
+  slider.knob=""
   slider.knob.drawing=off
 )
 
@@ -30,12 +30,12 @@ volume_icon=(
 )
 
 vol_dot=(
-  icon=􀀁
+  icon="·"
   icon.color=$TRANSPARENT_ACCENT
-  icon.font="$FONT:Black:6.0"
+  icon.font="$FONT:Black:36.0"
   icon.padding_right=2
   icon.padding_left=0
-  icon.y_offset=0
+  icon.y_offset=-2
 )
 
 sketchybar --add slider volume right            \
